@@ -219,8 +219,9 @@ $$
 ### 8.1 Énergie moyenne A–A
 
 Pour les particules de type A: 
+
 $$
-E_{AA}^{moy} = \frac{2}{N_A} \sum_{i<j}^{A} U_{ij}
+E_{AA}^{moy} =\frac{2}{N_A}\sum_{i<j}^{A} U_{ij}
 $$
 
 ---
